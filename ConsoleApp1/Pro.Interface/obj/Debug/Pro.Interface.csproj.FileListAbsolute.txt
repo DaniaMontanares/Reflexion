@@ -1,0 +1,6 @@
+C:\Users\Dania\source\repos\ConsoleApp1\Pro.Interface\bin\Debug\Pro.Interface.dll
+C:\Users\Dania\source\repos\ConsoleApp1\Pro.Interface\bin\Debug\Pro.Interface.pdb
+C:\Users\Dania\source\repos\ConsoleApp1\Pro.Interface\obj\Debug\Pro.Interface.csprojAssemblyReference.cache
+C:\Users\Dania\source\repos\ConsoleApp1\Pro.Interface\obj\Debug\Pro.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Dania\source\repos\ConsoleApp1\Pro.Interface\obj\Debug\Pro.Interface.dll
+C:\Users\Dania\source\repos\ConsoleApp1\Pro.Interface\obj\Debug\Pro.Interface.pdb

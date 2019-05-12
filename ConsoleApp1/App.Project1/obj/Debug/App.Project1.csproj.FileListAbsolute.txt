@@ -1,0 +1,9 @@
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\bin\Debug\App.Project1.dll
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\bin\Debug\App.Project1.pdb
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\bin\Debug\Pro.Interface.dll
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\bin\Debug\Pro.Interface.pdb
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\obj\Debug\App.Project1.csprojAssemblyReference.cache
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\obj\Debug\App.Project1.csproj.CoreCompileInputs.cache
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\obj\Debug\App.Project1.csproj.CopyComplete
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\obj\Debug\App.Project1.dll
+C:\Users\Dania\source\repos\ConsoleApp1\App.Project1\obj\Debug\App.Project1.pdb
